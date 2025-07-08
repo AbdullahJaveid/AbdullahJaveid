@@ -25,13 +25,10 @@ I'm passionate about learning programming from the ground up. Currently, I'm dee
 
 ### Contact Management System (Python + GUI)
 A user-friendly application to manage contacts, built from scratch using Python and Tkinter.  
-[🔗 GitHub Repository](#replace-with-your-repo-link)
+[🔗 GitHub Repository](https://github.com/AbdullahJaveid/Contact_Managment_System_Using_python)
 
-## 📫 Get in Touch
+## 📬 Contact Me
 
-<!-- Add your social or contact links below -->
-<!-- e.g., [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle) -->
-
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mabdullahjaved203@gmail.com)
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci
