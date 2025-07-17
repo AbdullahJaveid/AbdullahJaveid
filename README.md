@@ -42,7 +42,7 @@
 
 ### 📇 Contact Management System (Python + GUI)
 A user-friendly application to manage contacts, built from scratch using Python and Tkinter.  
-🔗 [GitHub Repository](https://github.com/AbdullahJaveid/Contact_Managment_System_Using_python)
+🔗 [Contact_Managment_System_Using_python]([https://github.com/AbdullahJaveid/Contact_Managment_System_Using_python](https://github.com/AbdullahJaveid/Contact_Managment_System_Using_python))
 
 ---
 
